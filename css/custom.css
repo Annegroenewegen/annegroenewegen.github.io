@@ -1,0 +1,162 @@
+.feature-1 {
+	text-align: left !important;
+}
+
+.feature-1 h3 {
+	font-family: "proxima-nova-condensed",sans-serif !important;
+    font-weight: 800 !important;
+    font-style: italic !important;
+    font-size: 30px !important;
+    color:#525252
+}
+
+.card-sub {
+    font-family: "sofia-pro",sans-serif !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    color: #ccc !important;
+    font-size: 13px !important;
+}
+
+.feature p {
+	font-family: "sofia-pro",sans-serif !important;
+}
+
+.row span {
+	font-family: "proxima-nova-condensed",sans-serif !important;
+    font-weight: 800 !important;
+    font-style: italic !important;
+    font-size: 50px !important;
+}
+
+.color--primary span {
+	color: #0820df;
+}
+
+.case-link {
+	font-family: "proxima-nova-condensed",sans-serif !important;
+    font-weight: 800 !important;
+    font-style: italic !important;
+	color:#0820df !important;
+	/*background:#FFEE2E !important;*/
+	font-size:15px !important;
+	/*padding: 2px 10px 2px 10px !important;*/
+}
+
+.col-sm-12 h1, h2 {
+	font-family: "proxima-nova-condensed",sans-serif !important;
+    font-weight: 800 !important;
+    font-style: italic !important;
+    color:#525252;
+}
+
+.bg--secondary .container .row .footer h1 {
+	font-family: "sofia-pro",sans-serif !important;
+	font-size: 20px;
+}
+
+#clients .col-sm-12 {
+	padding-bottom: 80px;
+}
+
+
+#clients ul li:nth-child(6n) {
+    margin: 0 0 30px 0;
+}
+
+#clients ul li {
+    float: left;
+    margin: 0 30px 30px 0;
+    text-indent: -9999px;
+    width: 14.0625%;
+    max-width: 135px;
+    min-height: 80px;
+    background-size: contain;
+}
+
+
+
+.header-image {
+	background: #ebebe8;
+}
+
+/*
+.header-image {
+	background: url(../img/breather.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
+
+#clients ul li.logo-nike {
+    background-image: url(../img/logo-rabobank.png);
+}
+
+#clients ul li.logo-behance {
+    background-image: url(../img/logo-cb.png);
+}
+
+#clients ul li.logo-red {
+    background-image: url(../img/logo-ohra.png);
+}
+
+#clients ul li.logo-twitter {
+    background-image: url(../img/logo-cos-studio.png);
+}
+
+#clients ul li.logo-hn {
+    background-image: url(../img/logo-myminifactory.png);
+}
+
+#clients ul li.logo-google {
+    background-image: url(../img/logo-british-airways.png);
+}
+
+#clients ul li.logo-adobe {
+    background-image: url(../img/logo-o-my-bag.png);
+}
+
+#clients ul li.logo-mtv {
+    background-image: url(../img/logo-designlab.png);
+}
+
+#clients ul li.logo-foursquare {
+    background-image: url(../img/logo-epson.png);
+}
+
+#clients ul li.logo-nasa {
+    background-image: url(../img/logo-clothes-show-live.png);
+}
+
+#clients ul li.logo-fb {
+    background-image: url(../img/logo-manolo-blahnik.png);
+}
+
+#clients ul li.logo-livestrong {
+    background-image: url(../img/logo-g-technology.png);
+}
+
+#clients ul li.logo-samsung {
+    background-image: url(../img/logo-samsung.png);
+}
+
+#clients ul li.logo-myspace {
+    background-image: url(../img/logo-myspace.png);
+}
+
+#clients ul li.logo-north {
+    background-image: url(../img/logo-north-face.png);
+}
+
+#clients ul li.logo-discovery {
+    background-image: url(../img/logo-discovery-channel.png);
+}
+
+#clients ul li.logo-usga {
+    background-image: url(../img/logo-usga.png);
+}
+
+#clients ul li.logo-wework {
+    background-image: url(../img/logo-wework.png);
+}
