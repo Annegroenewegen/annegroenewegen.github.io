@@ -74,8 +74,6 @@
     background-size: contain;
 }
 
-
-
 .header-image {
 	background: #ebebe8;
 }
@@ -89,51 +87,51 @@
 }
 */
 
-#clients ul li.logo-nike {
+#clients ul li.logo-rabobank {
     background-image: url(../img/logo-rabobank.png);
 }
 
-#clients ul li.logo-behance {
+#clients ul li.logo-cb {
     background-image: url(../img/logo-cb.png);
 }
 
-#clients ul li.logo-red {
+#clients ul li.logo-ohra {
     background-image: url(../img/logo-ohra.png);
 }
 
-#clients ul li.logo-twitter {
+#clients ul li.logo-cos-studio {
     background-image: url(../img/logo-cos-studio.png);
 }
 
-#clients ul li.logo-hn {
+#clients ul li.logo-myminifactory {
     background-image: url(../img/logo-myminifactory.png);
 }
 
-#clients ul li.logo-google {
+#clients ul li.logo-british-airways {
     background-image: url(../img/logo-british-airways.png);
 }
 
-#clients ul li.logo-adobe {
+#clients ul li.logo-o-my-bag {
     background-image: url(../img/logo-o-my-bag.png);
 }
 
-#clients ul li.logo-mtv {
+#clients ul li.logo-designlab {
     background-image: url(../img/logo-designlab.png);
 }
 
-#clients ul li.logo-foursquare {
+#clients ul li.logo-epson {
     background-image: url(../img/logo-epson.png);
 }
 
-#clients ul li.logo-nasa {
+#clients ul li.logo-clothes-show-live {
     background-image: url(../img/logo-clothes-show-live.png);
 }
 
-#clients ul li.logo-fb {
+#clients ul li.logo-manolo-blahnik {
     background-image: url(../img/logo-manolo-blahnik.png);
 }
 
-#clients ul li.logo-livestrong {
+#clients ul li.logo-g-technology {
     background-image: url(../img/logo-g-technology.png);
 }
 
