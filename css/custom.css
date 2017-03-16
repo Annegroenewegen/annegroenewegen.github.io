@@ -1,3 +1,36 @@
+/* Rabobank case */
+.cover {
+    background: url(../img/header-rabobank.jpg) !important;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.3);
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.switchable__text h3 {
+    font-family: "sofia-pro",sans-serif !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    color: #ccc !important;
+    font-size: 13px !important;
+}
+
+.switchable__text p {
+    font-family: "sofia-pro",sans-serif !important;
+}
+
+.col-sm-8 h1 {
+    font-family: "proxima-nova-condensed",sans-serif !important;
+    font-weight: 800 !important;
+    font-style: italic !important;
+    font-size: 30px !important;
+}
+
+.col-sm-8 p {
+    font-family: "sofia-pro",sans-serif !important;
+}
+
+
 .feature-1 {
 	text-align: left !important;
 }
